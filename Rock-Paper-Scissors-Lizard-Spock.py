@@ -1,6 +1,5 @@
 import random
 
-random.seed(0)
 options = ['Rock', 'Paper', 'Spock', 'Lizard', 'Scissors']
 
 
